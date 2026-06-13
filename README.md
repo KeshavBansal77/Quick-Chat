@@ -2,6 +2,10 @@
 
 Quick Chat is a real-time chat application built using the MERN Stack (MongoDB, ExpressJS, ReactJS, NodeJS) with AI-powered features.
 
+## Live Demo
+
+[https://quick-chat-theta-six.vercel.app](https://quick-chat-theta-six.vercel.app)
+
 ## Features
 
 - Sign Up / Sign In
