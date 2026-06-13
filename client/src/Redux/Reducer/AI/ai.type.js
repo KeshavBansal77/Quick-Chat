@@ -1,0 +1,7 @@
+export const AI_SEND_MESSAGE = "AI_SEND_MESSAGE";
+export const AI_RECEIVE_MESSAGE = "AI_RECEIVE_MESSAGE";
+export const AI_SET_LOADING = "AI_SET_LOADING";
+export const AI_SUMMARIZE_CHAT = "AI_SUMMARIZE_CHAT";
+export const AI_SET_CHAT_SESSION = "AI_SET_CHAT_SESSION";
+export const AI_CLEAR = "AI_CLEAR";
+export const AI_ERROR = "AI_ERROR";
